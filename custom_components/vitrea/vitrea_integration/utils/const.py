@@ -1,6 +1,6 @@
 PARAM_API_PREFIX = "5654483c"
 SUPPORTED_VERSIONS = {
-    7: 99,
+    7: 97,
     8: 63,
     9: 00,
     0: 00,
